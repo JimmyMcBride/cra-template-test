@@ -1,0 +1,9 @@
+{
+  "name": "cra-template-test",
+  "version": "1.0.0",
+  "description": "my custom template",
+  "main": "template.json",
+  "repository": "git@github.com:JimmyMcBride/cra-template-test.git",
+  "author": "JimmyMcBride <mcbride967@gmail.com>",
+  "license": "MIT"
+}

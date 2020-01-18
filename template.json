@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bushido-strap": "^1.3.5",
+    "node-sass": "^4.13.0",
+    "serve": "^11.2.0",
+    "styled-components": "^4.4.0"
+  },
+  "scripts": {
+    "serve": "serve -s build",
+    "build-and-serve": "npm run build && npm run serve"
+  }
+}
